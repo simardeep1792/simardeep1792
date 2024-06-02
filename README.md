@@ -31,3 +31,22 @@ Whether it's pioneering new projects or contributing to exciting collaborations,
 ---
 
 🙏 **Thank you for visiting my GitHub profile! I look forward to connecting and possibly collaborating on amazing projects!**
+
+
+# Welcome to the Hub of Simardeep Singh! 🌟
+
+### Widgets and Dynamic Content
+
+![Simardeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=simardeep1792&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simardeep1792&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simardeep1792&theme=dark)
+
+![Simardeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=simardeep1792&theme=xcode)
+
+![Profile views](https://gpvc.arturio.dev/simardeep1792)
+
+---
+
+🌟 **Thank you for stopping by! I'm excited to connect and collaborate on projects that push the envelope and create impact. Let’s innovate together!**
