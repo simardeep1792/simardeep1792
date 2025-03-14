@@ -2,7 +2,7 @@
 
 ## Senior Data & DevOps Engineer | Kubernetes Wizard | Data Architecture Maestro
 
-🌐 **Ottawa, ON, Canada** | 📧 **[Email Me](mailto:simardeep.oberoi@gmail.com)** | 🔗 **[LinkedIn](http://linkedin.com/in/simardeep--singh)** | 👨‍💻 **[GitHub](http://github.com/simardeep1792)** | ✍️ **[Medium](https://medium.com/@simardeep.oberoi)**
+🌐 **Ottawa, ON, Canada** | 🔗 **[LinkedIn](http://linkedin.com/in/simardeep--singh)** | 👨‍💻 **[GitHub](http://github.com/simardeep1792)** | ✍️ **[Medium](https://medium.com/@simardeep.oberoi)**
 
 ---
 
